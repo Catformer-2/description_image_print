@@ -1,5 +1,6 @@
 # Waypoint print
 Код позволяет генерировать из изображения конфиг меток, повторяя изображение в карте игры
+![image](https://github.com/user-attachments/assets/92a3c54c-2147-494d-a852-90fe982f9dbd)
 
 
 ## Как это работает?
