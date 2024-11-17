@@ -9,6 +9,7 @@ initial_z = waypoints[0]["pos"]["z"]
 
 
 image = Image.open("input.png")
+image = image.convert("RGBA")
 width, height = image.size
 pixels = image.load()
 new_waypoints = []
