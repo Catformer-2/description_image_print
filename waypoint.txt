@@ -1,1 +1,0 @@
-[{"time":1729959676960,"name":"image","pos":{"x":-4620.0,"y":70.0,"z":1113.5542},"color":-8392758,"icon_index":1,"can_position_float":false,"type":"manual"}]
